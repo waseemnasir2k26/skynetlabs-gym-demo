@@ -1,0 +1,280 @@
+{
+  "brand": {
+    "name": "SkynetLabs Gym Demo",
+    "tagline": "Boutique strength studio · Sunset Strip"
+  },
+  "niche": "gym",
+  "niche_label": "Gym + Strength Studio",
+  "location": {
+    "city": "West Hollywood",
+    "region": "CA",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-323-555-0118"
+  },
+  "palette": {
+    "bg": "#0E0E0E",
+    "surface": "#1A1A1A",
+    "ink": "#EDEAE3",
+    "accent": "#C9A961",
+    "detail": "#3A3A3A"
+  },
+  "fonts": {
+    "display": "Space Grotesk",
+    "body": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "dark_mode": true,
+  "hero": {
+    "kind": "cinemagraph",
+    "h1": "STRENGTH IS A *PRACTICE*.",
+    "sub": "12-member coaching cohorts. Sunset Strip.",
+    "photo_url": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Anastase Maragos on Unsplash",
+    "cinemagraph_url": null,
+    "overlay": "rgba(0,0,0,0.30)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Book Your Assessment →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Free 60-min intake — 3 slots left this week",
+    "secondary_cta_href": "tel:+13235550118",
+    "sticky_mobile_bar": "Free intake — (323) 555-0118"
+  },
+  "trust_strip": [
+    "NSCA-CSCS Coaches",
+    "USA Weightlifting Certified",
+    "Featured · GQ · Men's Health · Vogue",
+    "Precision Nutrition Coaching",
+    "12-Member Cohorts"
+  ],
+  "service_area": {
+    "primary_city": "West Hollywood, CA",
+    "service_area_cities": [
+      "Beverly Hills, CA",
+      "Bel Air, CA",
+      "Brentwood, CA",
+      "Pacific Palisades, CA",
+      "Santa Monica, CA",
+      "Hollywood, CA",
+      "Hollywood Hills, CA",
+      "Los Feliz, CA",
+      "Silver Lake, CA",
+      "Echo Park, CA",
+      "Mid-City, CA",
+      "Mid-Wilshire, CA",
+      "Larchmont, CA",
+      "Hancock Park, CA",
+      "Westwood, CA",
+      "Culver City, CA",
+      "Venice, CA",
+      "Marina del Rey, CA",
+      "Manhattan Beach, CA",
+      "Hermosa Beach, CA",
+      "Downtown LA, CA",
+      "Arts District, CA",
+      "Koreatown, CA",
+      "Studio City, CA",
+      "Sherman Oaks, CA",
+      "Encino, CA",
+      "Toluca Lake, CA",
+      "Burbank, CA",
+      "Glendale, CA",
+      "Pasadena, CA"
+    ]
+  },
+  "services": [
+    {
+      "slug": "foundations",
+      "title": "Foundations (intake + assessment)",
+      "blurb": "Initial 90-minute physical assessment — movement screening, strength baseline, recovery capacity, and goal alignment. Mandatory before joining any cohort. We do not sell memberships before we know if you are a fit and we are honest if you are not."
+    },
+    {
+      "slug": "the-cohort",
+      "title": "The Cohort (12-week strength block)",
+      "blurb": "12-week structured strength block in 12-member groups, three sessions per week with the same coach. Built around squat, hinge, push, pull, and carry patterns with linear and conjugate periodization. The cohort is the product — coached small-group training is more effective than 1:1 for most lifters and a fraction of the cost."
+    },
+    {
+      "slug": "1-1-coaching",
+      "title": "1:1 Coaching",
+      "blurb": "One-on-one strength and athletic-development programming for working professionals, returning lifters, and athletes preparing for specific events. Three sessions per week minimum. Programming is individualized — not a generic template with your name on it."
+    },
+    {
+      "slug": "hypertrophy-lab",
+      "title": "Hypertrophy Lab",
+      "blurb": "Bodybuilding-style strength and physique programming in a small-group setting. Different than the strength cohort — focused on muscle development and aesthetic outcomes through high-volume, controlled-tempo work. For lifters who already have strength and want to add tissue."
+    },
+    {
+      "slug": "recovery-suite",
+      "title": "Recovery Suite (sauna + cold)",
+      "blurb": "Cedar sauna at 195°F, cold plunge at 38°F, infrared therapy, percussion therapy, and contrast bathing protocols. Available to members on session days and stand-alone reservations otherwise. Recovery is part of the program — not a luxury."
+    },
+    {
+      "slug": "athlete-programming",
+      "title": "Athlete Programming",
+      "blurb": "Sport-specific programming for film/TV actors preparing for physical roles, professional athletes in offseason, and high-school and collegiate athletes home for summer. Confidentiality protocols for industry clients are standard practice."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Free intake",
+      "blurb": "Free 60-minute movement screen and goal conversation. We assess fit honestly — including whether the membership makes sense for you right now."
+    },
+    {
+      "n": 2,
+      "title": "Foundations",
+      "blurb": "First two weeks of programming run as Foundations — coaching pattern execution before adding load. Skipped only if you have a documented training history we can verify."
+    },
+    {
+      "n": 3,
+      "title": "Cohort assignment",
+      "blurb": "Placed into a 12-member cohort matched to your schedule, training age, and goals. Same coach throughout the 12-week block. Same training partners."
+    },
+    {
+      "n": 4,
+      "title": "12-week reassessment",
+      "blurb": "End-of-block testing on key strength markers, body composition, and movement quality. Programming shifts based on what the data shows — not on what we sold you to start."
+    }
+  ],
+  "case_study": {
+    "title": "Returning Lifter — From Reconstructed ACL to 405 lb Squat in 18 Months",
+    "photo_url": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=1920&auto=format&fit=crop&q=80",
+    "quote": "I tore my ACL playing high school football and never lifted seriously again until my mid-30s. Eighteen months in this program and I am squatting 405, deadlifting 495, and feel ten years younger than I did at 25. They built me back up — physically and mentally.",
+    "stats": [
+      {
+        "value": "405 lb",
+        "label": "Back-squat 1RM"
+      },
+      {
+        "value": "18 mo",
+        "label": "Training duration"
+      },
+      {
+        "value": "0 setbacks",
+        "label": "Knee complications"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Tore my ACL in high school football and never trained seriously again until my mid-30s. Eighteen months in and I am squatting 405. The coaches met me where I was, programmed around the knee until it was strong, and rebuilt the rest. Different kind of program.",
+      "name": "Marcus J.",
+      "role": "Returning lifter",
+      "city": "West Hollywood, CA"
+    },
+    {
+      "quote": "I am a director and the schedule is unforgiving. The team built a 4-day-per-week program around production-week realities and I have hit every body-composition target I had given up on by my mid-40s. Worth every dollar.",
+      "name": "Sasha D.",
+      "role": "Industry creative",
+      "city": "Hollywood Hills, CA"
+    },
+    {
+      "quote": "First time in a barbell gym after 12 years of Pilates and SoulCycle. The Foundations phase was honest about how much I did not know and the cohort welcomed me like I belonged. Six months in and I am stronger than I have ever been.",
+      "name": "Lana W.",
+      "role": "First-time strength athlete",
+      "city": "Beverly Hills, CA"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need experience to start?",
+      "a": "No. Foundations is built for novice lifters and the cohort structure works for any training age. We program around what you can currently do and progress on a 12-week structure that scales with you. The most common starting point is no barbell experience."
+    },
+    {
+      "q": "How are cohorts structured?",
+      "a": "Twelve members per cohort, three sessions per week (Mon-Wed-Fri or Tue-Thu-Sat), same coach and training partners across the 12-week block. Cohorts are matched on schedule, training age, and goals — we do not mix novice and advanced lifters in the same cohort."
+    },
+    {
+      "q": "What's included in membership?",
+      "a": "Three coached sessions per week, programming, recovery suite access, video form review, and quarterly reassessment. Nutrition coaching is a separate add-on — we do not bundle it because not every member needs it."
+    },
+    {
+      "q": "Is there parking?",
+      "a": "Validated parking in the rear lot for member sessions. Street parking on Sunset is also available. Most members within a half-mile walk simply walk."
+    },
+    {
+      "q": "Do you offer drop-ins?",
+      "a": "Limited drop-ins for members of partner gyms in other cities (one drop-in per visit, $85). We do not offer drop-ins as a default — the cohort dynamic depends on consistent attendance and chemistry."
+    },
+    {
+      "q": "How is this different from Equinox?",
+      "a": "Equinox is a fitness facility. We are a coaching practice. Equinox sells you a membership and equipment access; we sell you 12-week structured progress under specific coaches. Different category of product. Many of our members keep their Equinox membership for cardio convenience."
+    },
+    {
+      "q": "What's the coach-to-member ratio?",
+      "a": "1:12 in cohort sessions. 1:1 in private coaching. Coaches do not run the front desk, work the floor, or do administrative tasks — they coach. The math of attention is the model."
+    },
+    {
+      "q": "Can I freeze my membership?",
+      "a": "Up to 8 weeks per year for documented travel or medical reasons. Beyond that, we ask members to cancel and re-enroll when ready — the cohort dynamic depends on continuity."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The 12-Week Cohort Strength Audit",
+    "subtitle": "What separates 1:12 cohort coaching from group fitness. 9 pages.",
+    "cta": "Read the audit →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571907483085-b21a86fcdcb3?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://liftsociety.com/",
+    "https://www.thelabathleticclub.com/",
+    "https://builtrxweho.com/",
+    "https://theyardgym.com/locations/west-hollywood",
+    "https://www.pendry.com/west-hollywood/wellness/fitness/"
+  ],
+  "anti_patterns": [
+    "Flexed-bicep stock photos",
+    "Neon BEAST MODE typography",
+    "Before/after weight-loss carousels"
+  ],
+  "modules": {
+    "booking_calendar": true,
+    "service_area_map": false,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Boutique Strength Studio West Hollywood | 12-Member Cohorts | SkynetLabs",
+    "description": "Boutique strength coaching in West Hollywood. 12-member cohorts, NSCA-CSCS coaches, recovery suite. Sunset Strip.",
+    "keywords": [
+      "strength training west hollywood",
+      "boutique gym weho",
+      "personal trainer west hollywood",
+      "nsca csv weho",
+      "barbell coaching los angeles"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=gym",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=gym",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
